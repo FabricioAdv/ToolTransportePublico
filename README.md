@@ -37,6 +37,7 @@ Carregue a programacao para o arduino MEGA e o NANO
  Programacao_arduino               => Pasta da programacao dos Arduinos
  
  +-- Programacao_arduino_mega.ino  => Arquivo principal do Arduino
+ 
  +-- Programacao_arduino_nano.ino  => Arquivo principal do Arduino
  
  Esquema eletrico.pdf              => (opcional) Esquema eletrico para montagem do circuito
