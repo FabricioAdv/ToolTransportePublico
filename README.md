@@ -18,7 +18,7 @@ Este projeto tem como funcao auxiliar pessoas com deficiencia visual enquando es
 
 1. Abra o arquivo "Programacao_arduino_mega";
 2. Abra o arquivo "Programacao_arduino_nano";
-3. Faca as modificacoes necesserias para que se adequem a montagem de sua estrutura de comunicacao;
+3. Faca as modificacoes necesserias para que se adequem a sua comunicacao;
 
 == Passo 2: Montagem do circuito
 
@@ -28,20 +28,16 @@ Monte o circuito conforme o diagrama a seguir.
 
 == Passo 3: Carregar arquivo ao arduino
 
-Carregue a programacao para o arduino MEGA e o NANO
+Carregue a programacao para o arduino MEGA e o NANO.
 
 === Estrutura de arquivos
 
 ....
 
- Programacao_arduino               => Pasta da programacao dos Arduinos
- 
- +-- Programacao_arduino_mega.ino  => Arquivo principal do Arduino
- 
- +-- Programacao_arduino_nano.ino  => Arquivo principal do Arduino
- 
- Esquema eletrico.pdf              => (opcional) Esquema eletrico para montagem do circuito
- 
+ Programacao_arduino               => Pasta da programacao dos Arduinos</br>
+ +-- Programacao_arduino_mega.ino  => Arquivo principal do Arduino MEGA</br>
+ +-- Programacao_arduino_nano.ino  => Arquivo principal do Arduino NANO</br>
+
  README.md                         => Este arquivo
  
 ....
