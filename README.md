@@ -1,21 +1,16 @@
 # Ferramenta de auxílio ao deficiente visual no transporte público
-Este projeto tem como funcao auxiliar pessoas com deficiencia visual enquando esperam o transporte publico avisando-as que o mesmo esta se aproximando.
+Este projeto tem como função auxiliar pessoas com deficiência visual enquando esperam o transporte público avisando-as que o mesmo está se aproximando.
 
-:Autor: Fabricio Lima
+:Autor: Fabricio Lima </br>
+:Email: fabricio_lima_carvalho@hotmail.com </br>
+:Data: 16/12/2017 </br>
+:Revisao: 1.0 </br>
 
-:Email: fabricio_lima_carvalho@hotmail.com
-
-:Data: 16/12/2017
-
-:Revisao: 1.0
-
-= Projeto: Ferramenta de auxílio ao deficiente visual no transporte público
-
-== Passo 1: Instalacao
+== Passo 1: Instalação
 
 1. Abra o arquivo "Programacao_arduino_mega";
 2. Abra o arquivo "Programacao_arduino_nano";
-3. Faca as modificacoes necesserias para que se adequem a sua comunicacao;
+3. Faça as modificações necessárias para que se adequem a sua comunicação;
 
 == Passo 2: Montagem do circuito
 
@@ -25,20 +20,20 @@ Monte o circuito conforme o diagrama a seguir.
 
 == Passo 3: Carregar arquivo ao arduino
 
-Carregue a programacao para o arduino MEGA e o NANO.
+Carregue a programação para o arduino MEGA e o NANO.
 
 === Estrutura de arquivos
 
 ....
 
- Programacao_arduino               => Pasta da programacao dos Arduinos</br>
- +-- Programacao_arduino_mega.ino  => Arquivo principal do Arduino MEGA</br>
- +-- Programacao_arduino_nano.ino  => Arquivo principal do Arduino NANO</br>
+ Programacao_arduino               => Pasta da programação dos Arduinos </br>
+ +-- Programacao_arduino_mega.ino  => Arquivo principal do arduino MEGA </br>
+ +-- Programacao_arduino_nano.ino  => Arquivo principal do arduino NANO </br>
 
  README.md                         => Este arquivo
  
 ....
 
-=== Contribuicoes
+=== Contribuições
 
 Para contribuir com esse projeto, por favor contate Fabricio Lima - fabricio_lima_carvalho@hotmail.com
