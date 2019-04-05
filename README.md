@@ -1,4 +1,5 @@
-:Projeto: Ferramenta de auxílio ao deficiente visual no transporte público
+# Ferramenta de auxílio ao deficiente visual no transporte público
+Este projeto tem como funcao auxiliar pessoas com deficiencia visual enquando esperam o transporte publico avisando-as que o mesmo esta se aproximando.
 
 :Autor: Fabricio Lima
 
@@ -9,10 +10,6 @@
 :Revisao: 1.0
 
 = Projeto: Ferramenta de auxílio ao deficiente visual no transporte público
-
-Descricao de projeto
-
-Este projeto tem como funcao auxiliar pessoas com deficiencia visual enquando esperam o transporte publico avisando-as que o mesmo esta se aproximando.
 
 == Passo 1: Instalacao
 
