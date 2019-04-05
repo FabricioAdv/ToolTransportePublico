@@ -26,7 +26,7 @@ Carregue a programação para o arduino MEGA e o NANO.
 
 ....
 
- Programacao_arduino               => Pasta da programação dos Arduinos </br>
+ Programacao_arduino               => Pasta da programação dos arduinos </br>
  +-- Programacao_arduino_mega.ino  => Arquivo principal do arduino MEGA </br>
  +-- Programacao_arduino_nano.ino  => Arquivo principal do arduino NANO </br>
 
